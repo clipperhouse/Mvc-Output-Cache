@@ -1,7 +1,7 @@
 MVC Output Cache
 -
 
-MVC Output Cache is an attempt to implement output caching for ASP.net MVC that fixes some of the limitations of the OutputCache attribute that is part of ASP.net. The idea is to make easy things easy, and hard things possible, to steal a phrase. Some scenarios:
+MVC Output Cache is an attempt to implement output caching for ASP.net MVC that fixes some of the limitations of the OutputCache that comes with the framework. The idea is to make easy things easy, and hard things possible, to steal a phrase. Some scenarios:
 
   - Cache only for anonymous users
   - Simply not cache under defined circumstances
